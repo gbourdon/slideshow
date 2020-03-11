@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Start
+Comment=Starts the slideshow
+Icon=/usr/share/pixmaps/lxterminal.xpm
+Exec=sh /home/pi/Desktop/start.sh
+Terminal=true

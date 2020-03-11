@@ -1,0 +1,4 @@
+time, 5, How long does it take (In seconds) to change an image?
+background_red, 0, The red value of the background color
+background_green, 0, The green value of the background color
+background_blue, 0, The blue value of the background color
